@@ -1,3 +1,5 @@
 my 1st text line
+
 my 2nd text line BUG FIX
-my 3rd text line
+
+my 3rd text line FEATURE
